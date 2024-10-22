@@ -29,3 +29,6 @@ bench/*.png
 bench/bat
 bench/csv_times
 bench/sqlite3.c
+zig-out
+.zig-cache
+
