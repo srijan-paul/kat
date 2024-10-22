@@ -1,4 +1,8 @@
 # kat 🐱
+
+> NOTE: This is a port of the original library that uses the zig build system.
+> As a consequence, you can easily use this library in your zig projects.
+
 A simple cat-like/library syntax highlighter made in C
 
 ## Introduction
